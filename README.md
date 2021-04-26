@@ -17,7 +17,9 @@ identification of good candidates for loans.
       . The naive Random Overampling algorithm resulted in a balanced accuracy score of 0.64. the precision score was
         1.0 for predicting low risk, but also extremely for predicting high risk 0.01. The recall score was 0.66 for high
         risk and 0.62 for low risk.
-     
+            
+            
+            ![](images/ros.png)
         
       . The SMOTE algorithm resulted in a balanced accuracy score of 0.65. The presision for for predicting the high and low
         risk was the same as the naive random oversampling algorithm. the recall scores were 0.61 for high and 0.69 for low risk
